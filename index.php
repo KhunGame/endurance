@@ -6,6 +6,7 @@ if(!is_dir($app_folder)) die('The application folder is invalid or incorrectly s
 $app_path = rtrim(realpath($app_folder), '/').'/';
 
 define('APP', $app_path);
+define('BASE', 'http://localhost/endurance/');
 
-require_once APP.'engines/init.php';
+require_once APP.'engines/Init.php';
 ?>

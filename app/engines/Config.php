@@ -10,8 +10,13 @@ class Config {
 		$this->config = require($file);
 	}
 
-	public function retrieveConfig($type, $item) {
+	public function retrieveConfig($type, $item = '') {
+		if($item == '') return $this->config[$type];
 		return $this->config[$type][$item];
+	}
+
+	public function setConfig($type, $item, $value) {
+		
 	}
 
 }
