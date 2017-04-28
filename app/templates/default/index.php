@@ -72,14 +72,12 @@
 	</div>
 	<div class="credits">
 		<h3>Developers & Credits</h3>
-		<h5>Developed by Lunarmind Intelligence Systems</h5>
-		<h5>All rights belong to Martin De Tour - School of Management, Assumption University of Thailand(ABAC)</h5>
+		<h5>Developed by Mixion Initiative Co.Ltd.</h5>
+		<h5>All rights belong to Martin De Tour School of Management & Economics, Assumption University of Thailand</h5>
 		<ul>
-			<li>Chief in Command : Pattarin Roongsubsin</li>
-			<li>Project Manager : Kittipan Sirinimnualkul</li>
-			<li>Developers : Chatthana Janethankarn</li>
-			<li>Research & Planning : Arkadech Lomthampinij</li>
-			<li>Art Director & Concept Editor : Emily Freija</li>
+			<li>Lead Developer : Chatthana Janethanakarn</li>
+			<li>Conceptual Advisor Consultant : Wananong Kluanwong</li>
+			<li>Cooperator : Sasithorn Tantipanpipat</li> 
 		</ul>
 	</div>
 </div>
